@@ -25,7 +25,7 @@ for (item of buttons) {
             }
             catch(err)
             {
-                alert("enter a valid value!")
+                 screen.value = " ERROR   (ಥ﹏ಥ)";
 
             }
         }
