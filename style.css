@@ -49,5 +49,12 @@ button{
     
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-
+@media screen {
+    .btn:hover{
+        background-color: seagreen;
+    color: azure;
+    transition-duration: 0.1s;
+    }
+    
+}
 
