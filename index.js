@@ -25,7 +25,7 @@ for (item of buttons) {
             }
             catch(err)
             {
-                 screen.value = " ERROR   (ಥ﹏ಥ)";
+                 screen.value = "    ERROR   (ಥ﹏ಥ)";
 
             }
         }
